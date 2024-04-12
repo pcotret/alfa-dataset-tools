@@ -1,5 +1,9 @@
 # ALFA Dataset Tools
 
+## Requirements
+- Ubuntu 20 LTS
+- Python 3.9 or less
+
 ## Introduction
 
 This repository contains the basic tools to work with the AIR Lab Fault Detection (ALFA) Dataset. ALFA dataset contains autonomous flight sequences of a UAV plane with eight different types of fault happening during the flights and is provided to help advance fault and anomaly detection and isolation research. 
